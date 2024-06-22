@@ -1,0 +1,2 @@
+# CE-RAMOS
+👉此存储库包含CE-RAMOS开发团队目前开源的所有源码😄在Release中您可以下载到较新版本的CE-RAMOS的ISO镜像文件以及编译后的开源程序文件
