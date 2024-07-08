@@ -26,14 +26,14 @@ Github(不推荐)：本存储库Releases<div>
 ## 使用
 下载PE镜像后写入U盘或使用 <a href="https://files.ce-ramos.cn/d/%E4%B8%8B%E8%BD%BD/CE-RAMOS%E6%96%87%E4%BB%B6/CE-RAMOS%20Hub/CE-RAMOS%20Hub.exe">CE-RAMOS Hub (单击立即下载)</a>
 
-**目前的最新版本为CE-RAMOS v2.1**
+**目前的最新版本为CE-RAMOS v2.2**
 
 ## 开源软件
 
 ### 1.CE-插件市场
 
 🤟在本存储库即可下载，使用MIT许可证(下载编译后的版本：本存储库Releases)<div>
-免责声明：由于本软件支持获取管理CE-插件以及HPM模块，因此修改使用本软件可能需要获取某些授权
+免责声明：由于本软件支持获取管理CE-插件以及HPM模块、Edgeless插件，因此可能需要遵守某些许可条款
 
 ## 许可证
 
