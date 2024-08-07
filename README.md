@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://ce-ramos.cn">首页</a> -
   <a href="https://docs.ce-ramos.cn">文档</a> -
-  <a href="https://files.ce-ramos.cn">下载站</a>  -
+  <a href="https://files.ce-ramos.cn">下载站</a>
 </p>
 
 ## 下载
