@@ -17,15 +17,13 @@
 </p>
 
 ## 下载
+<a href="https://down.ce-ramos.cn/CE-RAMOS%E6%96%87%E4%BB%B6/ISO%E6%96%87%E4%BB%B6/CE-RAMOS.iso" target="_blank">UWP版本</a>
 
-官方文件下载站：https://files.ce-ramos.cn/%E4%B8%8B%E8%BD%BD/CE-RAMOS%E6%96%87%E4%BB%B6<div>
-
-123盘链接(分流)：https://www.123pan.com/s/5ZD9-OpJfd.html<div>
-Github(不推荐)：本存储库Releases<div>
+<a href="https://down.ce-ramos.cn/CE-RAMOS%E6%96%87%E4%BB%B6/ISO%E6%96%87%E4%BB%B6/CE-RAMOS(%E9%9D%9EUWP).iso)" target="_blank">非UWP版本</a>
 
 ## 使用
 
-下载PE镜像后写入U盘或使用 <a href="https://files.ce-ramos.cn/d/%E4%B8%8B%E8%BD%BD/CE-RAMOS%E6%96%87%E4%BB%B6/CE-RAMOS%20Hub/CE-RAMOS%20Hub.exe">CE-RAMOS Hub (单击立即下载)</a>
+下载PE镜像后写入U盘
 
 ## 敬请期待
 基于Tauri、TypeScript、Vite、React为底层的新版CE-RAMOS Hub正在开发中，敬请期待！😄
